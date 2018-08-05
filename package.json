@@ -1,0 +1,19 @@
+{
+  "name": "marketing-pipeline",
+  "version": "1.0.0",
+  "description": "Pipeline for PR needs",
+  "main": "scrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "./.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "nickjs": "^0.3.6"
+  }
+}
