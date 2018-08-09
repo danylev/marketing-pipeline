@@ -1,7 +1,8 @@
-
 require('dotenv').config()
 
 const fs = require('fs')
+var crypto = require('crypto')
+const mongoose = require('mongoose')
 const WebSearch = require('./lib-WebSearch')
 const Nick = require('nickjs')
 const nick = new Nick({
@@ -92,6 +93,11 @@ const getClappers = async (url, tab) => {
     return tab.evaluate(scrapeClappers)
 }
 //
+// Scrap result of ID
+const scrapeId = (arg, callback) => {
+	callback(null, document.querySelector("code").textContent.trim())
+}
+//
 const getId = async (tab, url) => {
     const selector = "form.i-amphtml-form"
     try {
@@ -110,27 +116,45 @@ const getId = async (tab, url) => {
     }
 }
 //
-const gatherClappersInfo = async (article, file, tab) => {
-    let stored = require('./'+file.split('.')[0])
-    if (stored) {
-        console.log('Finded stored', file)
-        return stored.clappers.map(person => person.name)
-    }
+const gatherClappersInfo = async (tab) => {
+    let articles = require('./articles.json').articles
+    console.log(articles)
     await mediumConnect(tab)
     console.log('Scrapping data from medium!')
-    let clappers = {url:article, clappers: await getClappers(article, tab)}
-    let dataToWrite = JSON.stringify(clappers,null, 2)
-    let persons = clappers.clappers
-    fs.writeFileSync(file, dataToWrite)
-    return persons.map(person => person.name)
+    const names = []
+    for (const article of articles) {
+        const file = './'+ 'CLAPPERS_' +crypto.createHash('md5').update(article).digest('hex') + '.json'
+        try {
+            console.log('Tying to find:', file)
+            let stored = require(file).clappers
+            console.log(stored)
+            if (stored) {
+                console.log('Finded stored', file)
+                await names.push.apply(stored.map(person => person.name))
+                continue
+            }
+        } catch(error) {
+            console.log('No saved data')
+        }
+        console.log('Scrapping:', article)
+        let clappers = {url:article, clappers: await getClappers(article, tab)}
+        let dataToWrite = JSON.stringify(clappers,null, 2)
+        names.push(clappers.clappers.map(person => person.name))
+        fs.writeFileSync(file, dataToWrite)
+        }
+    return names
 }
 //
-const gatherFacebookUrls = async (urls, file, tab) => {
-    let stored = require('./'+file.split('.')[0])
-    console.log(stored)
-    if (stored) {
-        console.log('Finded stored', file)
-        return stored.map(person => person.facebookUrl)
+const gatherFacebookUrls = async (urls, tab) => {
+    const file = './'+ 'FB_URLs'
+    try {
+        let stored = require(file)
+        if (stored) {
+            console.log('Finded stored', file)
+            return stored.map(person => person.facebookUrl)
+        }
+    } catch(error) {
+        console.log('No saved data')
     }
     const webSearch = new WebSearch(tab)
     const facebookUrls = []
@@ -161,10 +185,15 @@ const gatherFacebookUrls = async (urls, file, tab) => {
     return facebookUrls.map(person => person.facebookUrl)
 }
 //
-const gatherFacebookIDs = async (urls, file, tab) => {
+const gatherFacebookIDs = async (urls, tab) => {
     let facebookIDs = []
+    const file = './'+ 'FB_IDs'
     try {
-        let stored = require('./'+file.split('.')[0])
+        try {
+            let stored = require(file)
+        } catch(error) {
+            console.log('No saved data')
+        }
         if (stored) {
             console.log('Finded stored', file)
             return stored.map(person => person.facebookID)
@@ -192,12 +221,14 @@ const gatherFacebookIDs = async (urls, file, tab) => {
     }
 }
 //
+//
 ;(async() => {
     const tab = await nick.newTab()
-    let spreadsheetUrls = process.env.LIST_URL
-    names = await gatherClappersInfo(spreadsheetUrls, 'clappers.json', tab)
-    urls = await gatherFacebookUrls(names, 'faceurls.json', tab)
-    ids = await gatherFacebookIDs(urls, 'facebookids.json', tab)
+    names = require('./names.json')
+    facebookUrls = await gatherFacebookUrls(names, tab)
+    console.log(names)
+    // urls = await gatherFacebookUrls(names, article, tab)
+    // ids = await gatherFacebookIDs(urls, article, tab)
     nick.exit()
 })()
 .catch(err => {

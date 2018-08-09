@@ -1,0 +1,350 @@
+{
+  "url": "https://hackernoon.com/what-is-devops-and-why-i-should-have-it-e60f1ee446d2",
+  "clappers": [
+    {
+      "profileUrl": "https://medium.com/@nickciolpan",
+      "name": "Nick Ciolpan"
+    },
+    {
+      "profileUrl": "https://medium.com/@alexandrbulanov",
+      "name": "Alexandr Bulanov",
+      "description": "Software Engineer at @Django Stars"
+    },
+    {
+      "profileUrl": "https://medium.com/@iryna.meshchankina",
+      "name": "Iryna Meshchankina",
+      "description": "QA Lead @DjangoStars"
+    },
+    {
+      "profileUrl": "https://medium.com/@ryabtsev.alex",
+      "name": "Alexander Ryabtsev",
+      "description": "Python Developer / https://www.linkedin.com/in/alexander-ryabtsev-214393a2/"
+    },
+    {
+      "profileUrl": "https://medium.com/@andy.fordyce",
+      "name": "Andy Fordyce"
+    },
+    {
+      "profileUrl": "https://medium.com/@anthonyjose060",
+      "name": "Anthony Jose"
+    },
+    {
+      "profileUrl": "https://medium.com/@mick_yarbrough",
+      "name": "Michael Yarbrough",
+      "description": "Lifelong learner, #educator, #writer and cinefile."
+    },
+    {
+      "profileUrl": "https://medium.com/@WisniewskiJo82",
+      "name": "Jonathan E. Wisniews",
+      "description": "Psychologist, Adolescent Medicine Specialist"
+    },
+    {
+      "profileUrl": "https://medium.com/@SatterlyJoe",
+      "name": "Joe Satterly",
+      "description": "Blogger, Traveller, #SEO enthusiast | My new project: http://seonewbiebox.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@deb.g.tly",
+      "name": "Deborah Tolley",
+      "description": "Content writer, freelancer and sociology student"
+    },
+    {
+      "profileUrl": "https://medium.com/@whitneyelizabeth.k",
+      "name": "Whitney Elizabeth Kramer"
+    },
+    {
+      "profileUrl": "https://medium.com/@miranda.haddle",
+      "name": "Miranda Haddle"
+    },
+    {
+      "profileUrl": "https://medium.com/@gladkiysergey",
+      "name": "Sergey Gladkiy",
+      "description": "UI/UX Designer @ djangostars.com & producttribe.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@michael.c.yarbrough",
+      "name": "Michael Yarbrough"
+    },
+    {
+      "profileUrl": "https://medium.com/@mirabektimirova",
+      "name": "Mira Bektimirova"
+    },
+    {
+      "profileUrl": "https://medium.com/@sasha.savchenko",
+      "name": "Alexander Savchenko",
+      "description": "Business analyst @ djangostars.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@yaroslavlehenchuk",
+      "name": "Yaroslav Lehenchuk",
+      "description": "Head of Product @ producttribe.com & Head of Marketing @ djangostars.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@murugan.pradeep",
+      "name": "Pradeep Murugan"
+    },
+    {
+      "profileUrl": "https://medium.com/@mrigkriti",
+      "name": "Mriganshi kriti",
+      "description": "Talent Acquisition Lead @Infosys Ltd. ex-Sapient Likes:Internet Research, Boolean logic,Social Networking l Connoisseur of food l Loves- Photography & Traveling"
+    },
+    {
+      "profileUrl": "https://medium.com/@henrymalmgren",
+      "name": "Henry Malmgren"
+    },
+    {
+      "profileUrl": "https://medium.com/@kawsardiu",
+      "name": "kawsar joy"
+    },
+    {
+      "profileUrl": "https://medium.com/@rozig",
+      "name": "Ganzorig",
+      "description": "Spider"
+    },
+    {
+      "profileUrl": "https://medium.com/@divyanshchaudhary",
+      "name": "Divyansh Chaudhary"
+    },
+    {
+      "profileUrl": "https://medium.com/@krishnaindani",
+      "name": "Krishna Indani"
+    },
+    {
+      "profileUrl": "https://medium.com/@devilsnja",
+      "name": "David Zaltron",
+      "description": "DevOp, GNU/Linux user from startx era and vespa addicted."
+    },
+    {
+      "profileUrl": "https://medium.com/@katherine.tk2",
+      "name": "Katherine tk"
+    },
+    {
+      "profileUrl": "https://medium.com/@anmolmishra.jiit",
+      "name": "Anmol Mishra",
+      "description": "Part time Algorithmist who fails at love algorithm. Developer in progress. Gentleman at a date. Meticulous and Vegan. Taste food by nose and eat with mouth."
+    },
+    {
+      "profileUrl": "https://medium.com/@kamal.wod",
+      "name": "Kamal Wod"
+    },
+    {
+      "profileUrl": "https://medium.com/@jamesflorence13",
+      "name": "James Florence"
+    },
+    {
+      "profileUrl": "https://medium.com/@luis.botura",
+      "name": "Luis Botura"
+    },
+    {
+      "profileUrl": "https://medium.com/@MinHtet",
+      "name": "Min Htet"
+    },
+    {
+      "profileUrl": "https://medium.com/@atayee.prg",
+      "name": "Hasan Ataei",
+      "description": "Linux DevOps Engineer, Infrastructure, Oracle DBA"
+    },
+    {
+      "profileUrl": "https://medium.com/@niki.milushev",
+      "name": "Nikolay Milushev"
+    },
+    {
+      "profileUrl": "https://medium.com/@miguelpinheiroferreira",
+      "name": "Miguel Pinheiro Ferreira"
+    },
+    {
+      "profileUrl": "https://medium.com/@cgescamillan",
+      "name": "Gerardo Escamilla",
+      "description": "De-estructurado pero lógico, osado pero sensato, creativo pero realista."
+    },
+    {
+      "profileUrl": "https://medium.com/@xiaolongying",
+      "name": "Hubert"
+    },
+    {
+      "profileUrl": "https://medium.com/@serdarkatlav",
+      "name": "S K"
+    },
+    {
+      "profileUrl": "https://medium.com/@mattias.wikholm",
+      "name": "Mattias Wikholm"
+    },
+    {
+      "profileUrl": "https://medium.com/@stevejobsadoptionist",
+      "name": "SingleFrame",
+      "description": "Internet Product."
+    },
+    {
+      "profileUrl": "https://medium.com/@mikessoldier.the.first",
+      "name": "Abiel Flrs"
+    },
+    {
+      "profileUrl": "https://medium.com/@brandons42",
+      "name": "Brandon S"
+    },
+    {
+      "profileUrl": "https://medium.com/@S4chinn",
+      "name": "Sachin"
+    },
+    {
+      "profileUrl": "https://medium.com/@amrdruid",
+      "name": "Amr Alaaeldin"
+    },
+    {
+      "profileUrl": "https://medium.com/@olyavolja",
+      "name": "Olya Kostova",
+      "description": "In love with data science, oil painting, technical literature, learning new things and traveling. Obsessed with reports and dashboards :)"
+    },
+    {
+      "profileUrl": "https://medium.com/@amila.prabandhika",
+      "name": "Amila Prabandhika"
+    },
+    {
+      "profileUrl": "https://medium.com/@abeebola",
+      "name": "Abeeb 聖徒 Ola"
+    },
+    {
+      "profileUrl": "https://medium.com/@shiva.venky",
+      "name": "Shiva Venkatesh",
+      "description": "JavaScript Hacker, Profesional Web Developer."
+    },
+    {
+      "profileUrl": "https://medium.com/@maxgohjh",
+      "name": "Max Goh",
+      "description": "Software Developer at Argomi | Computing student at SIM-UOL"
+    },
+    {
+      "profileUrl": "https://medium.com/@neonrocket",
+      "name": "Irma Kornilova",
+      "description": "Business developer, tech columnist, keynote speaker"
+    },
+    {
+      "profileUrl": "https://medium.com/@francescruizgmez",
+      "name": "Francesc Ruiz Gómez",
+      "description": "https://about.me/francesc.ruiz"
+    },
+    {
+      "profileUrl": "https://medium.com/@hackernoon",
+      "name": "Hackernoon",
+      "description": "Staff Account, working to bring you the best sh*t for hackers at noon. https://hackernoon.com/"
+    },
+    {
+      "profileUrl": "https://medium.com/@tmayor",
+      "name": "Timothy S. Mayor"
+    },
+    {
+      "profileUrl": "https://medium.com/@opesays",
+      "name": "Opesays",
+      "description": "Founder of Music Coco, Africa’s first music analytics company"
+    },
+    {
+      "profileUrl": "https://medium.com/@MHegelheimer",
+      "name": "Michael",
+      "description": "https://hegel.fyi"
+    },
+    {
+      "profileUrl": "https://medium.com/@bantoni",
+      "name": "Bruno ANTONI",
+      "description": "Senior lead developer @sellsy_app Born to code and in constant research of progress & life hacks"
+    },
+    {
+      "profileUrl": "https://medium.com/@aortiz1989",
+      "name": "Alex Ortiz"
+    },
+    {
+      "profileUrl": "https://medium.com/@VonC_",
+      "name": "VonC",
+      "description": "French programmer and Source Control administrator (ClearCase, Subversion, Git). See my StackOverflow profile."
+    },
+    {
+      "profileUrl": "https://medium.com/@darahfumadac",
+      "name": "Darah U."
+    },
+    {
+      "profileUrl": "https://medium.com/@varenik666",
+      "name": "Andrei Varenik"
+    },
+    {
+      "profileUrl": "https://medium.com/@jeneilstephen",
+      "name": "Jeneil Stephen"
+    },
+    {
+      "profileUrl": "https://medium.com/@ami",
+      "name": "AMI",
+      "description": "Your friend with a story. HackerNoon.com, ARTplusMarketing.com, ExtraNewsfeed.com, https://psiloveyou.xyz/ & more http://www.amipublications.com/."
+    },
+    {
+      "profileUrl": "https://medium.com/@danielmwakanema",
+      "name": "Daniel Mwakanema",
+      "description": "Lurker. Stalker. Computer Programmer."
+    },
+    {
+      "profileUrl": "https://medium.com/@tudorific",
+      "name": "Tudor"
+    },
+    {
+      "profileUrl": "https://medium.com/@jonathanbedoya",
+      "name": "Jonathan Bedoya"
+    },
+    {
+      "profileUrl": "https://medium.com/@adnux182",
+      "name": "André Luís Ferreira"
+    },
+    {
+      "profileUrl": "https://medium.com/@keganonomichi",
+      "name": "Kegan Onomichi"
+    },
+    {
+      "profileUrl": "https://medium.com/@krishnachaitanya9984",
+      "name": "krishna chaitanya"
+    },
+    {
+      "profileUrl": "https://medium.com/@liubo404_20144",
+      "name": "LiuBo"
+    },
+    {
+      "profileUrl": "https://medium.com/@renganatha10",
+      "name": "Renganatha Arunachalam",
+      "description": "I Code @geekyants"
+    },
+    {
+      "profileUrl": "https://medium.com/@brandonwilcox",
+      "name": "Brandon Wilcox"
+    },
+    {
+      "profileUrl": "https://medium.com/@nirajr1992",
+      "name": "Niraj M. Rajgor"
+    },
+    {
+      "profileUrl": "https://medium.com/@distribooted",
+      "name": "DISTRIBOOTED",
+      "description": "The App Store for The #Cloud. https://www.distribooted.com/"
+    },
+    {
+      "profileUrl": "https://medium.com/@migueldaz_26427",
+      "name": "Miguel Díaz"
+    },
+    {
+      "profileUrl": "https://medium.com/@fatihsenel",
+      "name": "Fatih Senel",
+      "description": "Senior Fullstack Developer"
+    },
+    {
+      "profileUrl": "https://medium.com/@tylerlorenzi",
+      "name": "Tyler Lorenzi"
+    },
+    {
+      "profileUrl": "https://medium.com/@rony.th",
+      "name": "Rony Teha"
+    },
+    {
+      "profileUrl": "https://medium.com/@compulover",
+      "name": "Mike G"
+    },
+    {
+      "profileUrl": "https://medium.com/@DavidSmooke",
+      "name": "David Smooke",
+      "description": "making @ami, your friend with a story. also, working on my dad jokes."
+    }
+  ]
+}

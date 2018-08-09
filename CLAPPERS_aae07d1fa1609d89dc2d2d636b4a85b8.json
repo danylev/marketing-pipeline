@@ -1,0 +1,301 @@
+{
+  "url": "https://medium.freecodecamp.org/how-i-use-python-debugger-to-fix-code-ca8492423148",
+  "clappers": [
+    {
+      "profileUrl": "https://medium.com/@george_82117",
+      "name": "George Lemanis"
+    },
+    {
+      "profileUrl": "https://medium.com/@ada4fun",
+      "name": "Daren FANG"
+    },
+    {
+      "profileUrl": "https://medium.com/@ivan.zindl",
+      "name": "Ivan zindl"
+    },
+    {
+      "profileUrl": "https://medium.com/@fabricio.severo",
+      "name": "Fabricio Severo"
+    },
+    {
+      "profileUrl": "https://medium.com/@8saturas8",
+      "name": "Андрей П"
+    },
+    {
+      "profileUrl": "https://medium.com/@hegde.aditya",
+      "name": "aditya hegde"
+    },
+    {
+      "profileUrl": "https://medium.com/@ryabtsev.alex",
+      "name": "Alexander Ryabtsev",
+      "description": "Python Developer / https://www.linkedin.com/in/alexander-ryabtsev-214393a2/"
+    },
+    {
+      "profileUrl": "https://medium.com/@iryna.meshchankina",
+      "name": "Iryna Meshchankina",
+      "description": "QA Lead @DjangoStars"
+    },
+    {
+      "profileUrl": "https://medium.com/@kompanets.dmitry",
+      "name": "Dean Kompanets",
+      "description": "Passionate about family relationships and well-being"
+    },
+    {
+      "profileUrl": "https://medium.com/@nomanaasif99",
+      "name": "noman aasif"
+    },
+    {
+      "profileUrl": "https://medium.com/@rahularora241196",
+      "name": "rahul arora"
+    },
+    {
+      "profileUrl": "https://medium.com/@edgard.pineda",
+      "name": "Edgard Pineda"
+    },
+    {
+      "profileUrl": "https://medium.com/@khath.khemanorak",
+      "name": "Khemanorak Khath",
+      "description": "Software Developer at CODIUM. I develop in Python and Swift."
+    },
+    {
+      "profileUrl": "https://medium.com/@Cachanilla2U",
+      "name": "ALONSO"
+    },
+    {
+      "profileUrl": "https://medium.com/@guto.reisdelima",
+      "name": "Gustavo Reis"
+    },
+    {
+      "profileUrl": "https://medium.com/@latusaki",
+      "name": "Ioannis Latousakis"
+    },
+    {
+      "profileUrl": "https://medium.com/@SameerRele",
+      "name": "Sameer Rele"
+    },
+    {
+      "profileUrl": "https://medium.com/@therzern",
+      "name": "Lenny C"
+    },
+    {
+      "profileUrl": "https://medium.com/@santoshsubramanya",
+      "name": "Santosh Kumar S"
+    },
+    {
+      "profileUrl": "https://medium.com/@pedromota99",
+      "name": "Ynoa Pedro"
+    },
+    {
+      "profileUrl": "https://medium.com/@jro11",
+      "name": "Lam Jun Rong"
+    },
+    {
+      "profileUrl": "https://medium.com/@mohitkumar2801",
+      "name": "Mohit Kumar"
+    },
+    {
+      "profileUrl": "https://medium.com/@RafaelDavisH",
+      "name": "Rafael D. Hernandez",
+      "description": "I just recently completed Udacity Intro to Programming Nanodegree Program. I’m now going full force for the Full Stack Web Developer Nanodegree."
+    },
+    {
+      "profileUrl": "https://medium.com/@distribooted",
+      "name": "DISTRIBOOTED",
+      "description": "The App Store for The #Cloud. https://www.distribooted.com/"
+    },
+    {
+      "profileUrl": "https://medium.com/@onha2001",
+      "name": "omar aljazairy"
+    },
+    {
+      "profileUrl": "https://medium.com/@__luki__",
+      "name": "Łukasz Skarżyński"
+    },
+    {
+      "profileUrl": "https://medium.com/@tuantm88",
+      "name": "Tuan Trieu",
+      "description": "A former malware researcher"
+    },
+    {
+      "profileUrl": "https://medium.com/@katyapavlevych",
+      "name": "Katya Pavlevych",
+      "description": "Ex-Chief Editor at Telegraf.design. More than food, traveling, Pusheens and arguing about justice, I love only my fiance."
+    },
+    {
+      "profileUrl": "https://medium.com/@alanbecklesmd",
+      "name": "alanbecklesmd"
+    },
+    {
+      "profileUrl": "https://medium.com/@i05nagai",
+      "name": "Makoto Nagai"
+    },
+    {
+      "profileUrl": "https://medium.com/@Americafl0",
+      "name": "Erica"
+    },
+    {
+      "profileUrl": "https://medium.com/@tiagomarques_59592",
+      "name": "Tiago Marques"
+    },
+    {
+      "profileUrl": "https://medium.com/@sagiavinash",
+      "name": "Sagi Avinash Varma",
+      "description": "Web Engineer II @Uber, https://github.com/sagiavinash"
+    },
+    {
+      "profileUrl": "https://medium.com/@vikanikolenko",
+      "name": "Vika Nikolenko"
+    },
+    {
+      "profileUrl": "https://medium.com/@shurmanv",
+      "name": "Vadim Shurman"
+    },
+    {
+      "profileUrl": "https://medium.com/@milenkomarkovic",
+      "name": "Milenko Markovic"
+    },
+    {
+      "profileUrl": "https://medium.com/@hiraqcitram",
+      "name": "Hiraq Citra M"
+    },
+    {
+      "profileUrl": "https://medium.com/@vadym.zakovinko",
+      "name": "Vadym Zakovinko",
+      "description": "Software Architect / Python Developer @ https://djangostars.com/ | https://github.com/Quard | http://zakovinko.com | vp.zakovinko@gmail.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@gladkiysergey",
+      "name": "Sergey Gladkiy",
+      "description": "UI/UX Designer @ djangostars.com & producttribe.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@sasha.savchenko",
+      "name": "Alexander Savchenko",
+      "description": "Business analyst @ djangostars.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@SatterlyJoe",
+      "name": "Joe Satterly",
+      "description": "Blogger, Traveller, #SEO enthusiast | My new project: http://seonewbiebox.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@deb.g.tly",
+      "name": "Deborah Tolley",
+      "description": "Content writer, freelancer and sociology student"
+    },
+    {
+      "profileUrl": "https://medium.com/@miranda.haddle",
+      "name": "Miranda Haddle"
+    },
+    {
+      "profileUrl": "https://medium.com/@WisniewskiJo82",
+      "name": "Jonathan E. Wisniews",
+      "description": "Psychologist, Adolescent Medicine Specialist"
+    },
+    {
+      "profileUrl": "https://medium.com/@whitneyelizabeth.k",
+      "name": "Whitney Elizabeth Kramer"
+    },
+    {
+      "profileUrl": "https://medium.com/@mick_yarbrough",
+      "name": "Michael Yarbrough",
+      "description": "Lifelong learner, #educator, #writer and cinefile."
+    },
+    {
+      "profileUrl": "https://medium.com/@serkannoron",
+      "name": "Serkan",
+      "description": "Hiçbir şeyin uzmanı"
+    },
+    {
+      "profileUrl": "https://medium.com/@michael.c.yarbrough",
+      "name": "Michael Yarbrough"
+    },
+    {
+      "profileUrl": "https://medium.com/@producttribe",
+      "name": "Product Tribe",
+      "description": "Blog about product development and growth. Tutorials, guides, tips from experts. Products are conquering the world - and we are the ones to help them!"
+    },
+    {
+      "profileUrl": "https://medium.com/@mirabektimirova",
+      "name": "Mira Bektimirova"
+    },
+    {
+      "profileUrl": "https://medium.com/@mira.bektimirova",
+      "name": "Mira Bektimirova",
+      "description": "Community Growth Fairy at producttribe.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@romangaponov",
+      "name": "Roman Gaponov",
+      "description": "CEO & Co-Founder at Django Stars"
+    },
+    {
+      "profileUrl": "https://medium.com/@tymoshenko.a",
+      "name": "Anna Tymoshenko",
+      "description": "PDFfiller Inc., Marketer. Document automation for better business efficiency"
+    },
+    {
+      "profileUrl": "https://medium.com/@arieda.muco",
+      "name": "Arieda Muço"
+    },
+    {
+      "profileUrl": "https://medium.com/@ng.anvinh10",
+      "name": "Vinh Ng"
+    },
+    {
+      "profileUrl": "https://medium.com/@blaisep",
+      "name": "Blaise Pabon"
+    },
+    {
+      "profileUrl": "https://medium.com/@vernomcrp",
+      "name": "vernomcrp",
+      "description": "Python Player"
+    },
+    {
+      "profileUrl": "https://medium.com/@docred",
+      "name": "docred",
+      "description": "I work with technology, both old and new. I like heavy music. I practice martial arts."
+    },
+    {
+      "profileUrl": "https://medium.com/@miles.crighton",
+      "name": "Miles Crighton"
+    },
+    {
+      "profileUrl": "https://medium.com/@marina.smoliar.a",
+      "name": "Marina Smoliar"
+    },
+    {
+      "profileUrl": "https://medium.com/@victormarkopoulos",
+      "name": "Victor Markopoulos"
+    },
+    {
+      "profileUrl": "https://medium.com/@ilya_azovtsev",
+      "name": "Ilya Azovtsev",
+      "description": "Helped 700+ companies increased the number of closed deals by 37% 🎯🔥"
+    },
+    {
+      "profileUrl": "https://medium.com/@daniil.kopilevych",
+      "name": "Daniil Kopilevych",
+      "description": "I love Startups, Product development and Marketing"
+    },
+    {
+      "profileUrl": "https://medium.com/@biloshapko",
+      "name": "Alla Biloshapko"
+    },
+    {
+      "profileUrl": "https://medium.com/@o.shevchenko.ezetech",
+      "name": "Oleksii Shevchenko",
+      "description": "Technology Consultant for Startups | Helped 20+ Startups & Head Of Operations at https://eze.tech/ - Implementation partner for non-technical entrepreneurs."
+    },
+    {
+      "profileUrl": "https://medium.com/@yaroslavlehenchuk",
+      "name": "Yaroslav Lehenchuk",
+      "description": "Head of Product @ producttribe.com & Head of Marketing @ djangostars.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@avalon1028",
+      "name": "Abigail Rennemeyer",
+      "description": "Editor, writer, and world traveler."
+    }
+  ]
+}

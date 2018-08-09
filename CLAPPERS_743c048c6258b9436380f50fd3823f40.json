@@ -1,0 +1,651 @@
+{
+  "url": "https://medium.com/swlh/mobile-app-gamification-5-mainthings-to-consider-f47cdf1e6610",
+  "clappers": [
+    {
+      "profileUrl": "https://medium.com/@allieshuldman",
+      "name": "Allie Shuldman"
+    },
+    {
+      "profileUrl": "https://medium.com/@hyunjilee_43933",
+      "name": "Hyunji Lee"
+    },
+    {
+      "profileUrl": "https://medium.com/@oguzhan.topsakal",
+      "name": "Oguzhan Topsakal"
+    },
+    {
+      "profileUrl": "https://medium.com/@weareklevio",
+      "name": "Klevio",
+      "description": "We're building smart technology that will change the way we control access to offices, homes and apartment buildings. See more at klevio.com."
+    },
+    {
+      "profileUrl": "https://medium.com/@iryna.meshchankina",
+      "name": "Iryna Meshchankina",
+      "description": "QA Lead @DjangoStars"
+    },
+    {
+      "profileUrl": "https://medium.com/@ryabtsev.alex",
+      "name": "Alexander Ryabtsev",
+      "description": "Python Developer / https://www.linkedin.com/in/alexander-ryabtsev-214393a2/"
+    },
+    {
+      "profileUrl": "https://medium.com/@hmalakalaie1374",
+      "name": "Hossein Malakalaie"
+    },
+    {
+      "profileUrl": "https://medium.com/@nihalnova",
+      "name": "Nihal Singh"
+    },
+    {
+      "profileUrl": "https://medium.com/@fsalas.azp",
+      "name": "Fernanda Salas"
+    },
+    {
+      "profileUrl": "https://medium.com/@mick_yarbrough",
+      "name": "Michael Yarbrough",
+      "description": "Lifelong learner, #educator, #writer and cinefile."
+    },
+    {
+      "profileUrl": "https://medium.com/@WisniewskiJo82",
+      "name": "Jonathan E. Wisniews",
+      "description": "Psychologist, Adolescent Medicine Specialist"
+    },
+    {
+      "profileUrl": "https://medium.com/@SatterlyJoe",
+      "name": "Joe Satterly",
+      "description": "Blogger, Traveller, #SEO enthusiast | My new project: http://seonewbiebox.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@deb.g.tly",
+      "name": "Deborah Tolley",
+      "description": "Content writer, freelancer and sociology student"
+    },
+    {
+      "profileUrl": "https://medium.com/@whitneyelizabeth.k",
+      "name": "Whitney Elizabeth Kramer"
+    },
+    {
+      "profileUrl": "https://medium.com/@miranda.haddle",
+      "name": "Miranda Haddle"
+    },
+    {
+      "profileUrl": "https://medium.com/@quangtriuv",
+      "name": "Quang Triều Võ"
+    },
+    {
+      "profileUrl": "https://medium.com/@Jowho",
+      "name": "Mentie Omotejowho",
+      "description": "Design Unicorn"
+    },
+    {
+      "profileUrl": "https://medium.com/@syedaftabalijaffery_74950",
+      "name": "Syed Aftab Ali Jaffery"
+    },
+    {
+      "profileUrl": "https://medium.com/@gladkiysergey",
+      "name": "Sergey Gladkiy",
+      "description": "UI/UX Designer @ djangostars.com & producttribe.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@michael.c.yarbrough",
+      "name": "Michael Yarbrough"
+    },
+    {
+      "profileUrl": "https://medium.com/@mirabektimirova",
+      "name": "Mira Bektimirova"
+    },
+    {
+      "profileUrl": "https://medium.com/@sasha.savchenko",
+      "name": "Alexander Savchenko",
+      "description": "Business analyst @ djangostars.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@yaroslavlehenchuk",
+      "name": "Yaroslav Lehenchuk",
+      "description": "Head of Product @ producttribe.com & Head of Marketing @ djangostars.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@tobaiwa",
+      "name": "Tariro Tobaiwa"
+    },
+    {
+      "profileUrl": "https://medium.com/@mikeyny",
+      "name": "Michael Nyamande",
+      "description": "Aspiring web and mobile developer .Tech enthusiast. I blog at https://blog.michaelnyamande.me"
+    },
+    {
+      "profileUrl": "https://medium.com/@martaoui",
+      "name": "Marta Gui",
+      "description": "Lover of Croquetas and Growth Hacking Marketer @wallapop . Studied Graphic design in Elisava and Graphic Branding in LCC http://martagui.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@hesammanafi04",
+      "name": "hesam manafi"
+    },
+    {
+      "profileUrl": "https://medium.com/@rebecaanderson2018",
+      "name": "Rebeca Anderson",
+      "description": "Accomplished Mobile Application Developer who is able to create mobile app for Android as well as iOS. Developing apps based on customer specifications."
+    },
+    {
+      "profileUrl": "https://medium.com/@aufadhita",
+      "name": "Sarah Aufa Dhita",
+      "description": "lifetime learner — UI/UX Enthuasiast"
+    },
+    {
+      "profileUrl": "https://medium.com/@eslamelhummusany",
+      "name": "Eslam El Hummusany"
+    },
+    {
+      "profileUrl": "https://medium.com/@audreymgr",
+      "name": "audrey mgr",
+      "description": "good shaggy dog stories"
+    },
+    {
+      "profileUrl": "https://medium.com/@rajan_30025",
+      "name": "Rajanbenny"
+    },
+    {
+      "profileUrl": "https://medium.com/@ISDDesign",
+      "name": "ISDDesign",
+      "description": "We are a team of qualified professionals dedicated to web and mobile development in healthcare domain. Follow the link to discover more: https://isddesign.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@bilbobagins94",
+      "name": "Nicholas Ng"
+    },
+    {
+      "profileUrl": "https://medium.com/@hugolemos",
+      "name": "Hugo Lemos"
+    },
+    {
+      "profileUrl": "https://medium.com/@timeakonya",
+      "name": "Timea Konya"
+    },
+    {
+      "profileUrl": "https://medium.com/@fredrik.alstorp",
+      "name": "Fredrik Alstorp"
+    },
+    {
+      "profileUrl": "https://medium.com/@Bentise",
+      "name": "Ben Jones",
+      "description": "Product, fitness, renewables, travel, cryptos & curiosity"
+    },
+    {
+      "profileUrl": "https://medium.com/@augustoleandro",
+      "name": "Leandro Augusto"
+    },
+    {
+      "profileUrl": "https://medium.com/@andychu0129",
+      "name": "Andy Chu"
+    },
+    {
+      "profileUrl": "https://medium.com/@istrategylabs",
+      "name": "ISL",
+      "description": "DC & NYC = 🏡 | Destination = 🌔 | More at: http://www.isl.co | ISL is a @JWT_Worldwide company."
+    },
+    {
+      "profileUrl": "https://medium.com/@petrosbleyan",
+      "name": "Petros Bleyan"
+    },
+    {
+      "profileUrl": "https://medium.com/@charlottejazmine",
+      "name": "Charlotte Lucas"
+    },
+    {
+      "profileUrl": "https://medium.com/@manuocho",
+      "name": "manu ocho"
+    },
+    {
+      "profileUrl": "https://medium.com/@mateuscks",
+      "name": "Mateus Henrique Pienta Fagundes",
+      "description": "Ux designer — @mateus_pienta — www.mateuspienta.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@mayronwaligura",
+      "name": "Mayron Waligura"
+    },
+    {
+      "profileUrl": "https://medium.com/@michael.kh.li",
+      "name": "Michael Li"
+    },
+    {
+      "profileUrl": "https://medium.com/@anakin33",
+      "name": "Florian Nagel",
+      "description": "Product Strategist @spielraum.ai 🚀"
+    },
+    {
+      "profileUrl": "https://medium.com/@TNine",
+      "name": "TNine Infotech"
+    },
+    {
+      "profileUrl": "https://medium.com/@joebrazao",
+      "name": "Joe Brazao",
+      "description": "UX | Product Designer | Problem Solver"
+    },
+    {
+      "profileUrl": "https://medium.com/@choheepark",
+      "name": "Cho Hee Park"
+    },
+    {
+      "profileUrl": "https://medium.com/@pierrelilien",
+      "name": "Pierre Lilien",
+      "description": "Innovation & Growth are the keys."
+    },
+    {
+      "profileUrl": "https://medium.com/@prasad_lingawar",
+      "name": "Prasad Lingawar"
+    },
+    {
+      "profileUrl": "https://medium.com/@choroshin",
+      "name": "Alex Choroshin"
+    },
+    {
+      "profileUrl": "https://medium.com/@rishitshetty",
+      "name": "Rishit Shetty"
+    },
+    {
+      "profileUrl": "https://medium.com/@somerohit",
+      "name": "Rohit Tikmany",
+      "description": "Creating customer value. Solving interesting problems. In the India consumer social space."
+    },
+    {
+      "profileUrl": "https://medium.com/@vaidoshia",
+      "name": "Vaida Pakulyte",
+      "description": "Digital Marketing Manager at Strands. Freelance UI/UX Specialist! A digital geek and “visual communication” addict! Follow me!"
+    },
+    {
+      "profileUrl": "https://medium.com/@juliasharrock",
+      "name": "Julia Sharrock",
+      "description": "Visual Designer & Taco Lover"
+    },
+    {
+      "profileUrl": "https://medium.com/@realPB",
+      "name": "Paul Bae",
+      "description": "Founder @snapadvice. Passionate about entrepreneurship, coaching, Scotch & Japanese whiskeys. Formerly @ Google, CBS, MTV, MarsMusic, JCrew .com."
+    },
+    {
+      "profileUrl": "https://medium.com/@Doug_MindofMktg",
+      "name": "Doug Goldstein",
+      "description": "Digital product, strategy & ecommerce | Technology is OUR magic | Explorer of mind-blowing insights | Lover of French Bulldogs | Proud Star Wars geek"
+    },
+    {
+      "profileUrl": "https://medium.com/@viteredgar",
+      "name": "Viter Edgar"
+    },
+    {
+      "profileUrl": "https://medium.com/@Rithie",
+      "name": "Euler Rithiele",
+      "description": "Product Engineer — Ionic 2 & Machine Learning enthusiast based on Rio Pomba"
+    },
+    {
+      "profileUrl": "https://medium.com/@alex_vitori",
+      "name": "Alexander",
+      "description": "Grafic and web designer. Writer. Founder of vitorials.net. Love to learn and share."
+    },
+    {
+      "profileUrl": "https://medium.com/@kanaboy",
+      "name": "Cristiano Kanashiro"
+    },
+    {
+      "profileUrl": "https://medium.com/@veronicatorresin",
+      "name": "Veronica Torresin"
+    },
+    {
+      "profileUrl": "https://medium.com/@qianlinghuang",
+      "name": "Irene Huang",
+      "description": "A UX/UI and communication Designer"
+    },
+    {
+      "profileUrl": "https://medium.com/@farzamit",
+      "name": "Farzam Tahmaseb Mirza",
+      "description": "Developer"
+    },
+    {
+      "profileUrl": "https://medium.com/@p9alisand",
+      "name": "Panagis Alisandratos"
+    },
+    {
+      "profileUrl": "https://medium.com/@adriangomez",
+      "name": "Adrián Gómez",
+      "description": "Design Lead. La Creativería. Costa Rica"
+    },
+    {
+      "profileUrl": "https://medium.com/@mehmetcam7",
+      "name": "Mehmet ÇAM",
+      "description": "Product Designer, CDO at Otsimo"
+    },
+    {
+      "profileUrl": "https://medium.com/@hello_christa",
+      "name": "Christa Clark",
+      "description": "Occasional thought pieces on modern black magic: user experience, platform design, freelancing, machine learning, distributed ledgers, sobriety, and Javascript."
+    },
+    {
+      "profileUrl": "https://medium.com/@vishal.iitr2003",
+      "name": "Vishal"
+    },
+    {
+      "profileUrl": "https://medium.com/@aidas.bendoraitis",
+      "name": "Aidas Bendoraitis"
+    },
+    {
+      "profileUrl": "https://medium.com/@santoshbotre01",
+      "name": "Santosh Botre",
+      "description": "if(\"you want to design, architecte and implement\") { whatShouldYouDo(\"read\"); }"
+    },
+    {
+      "profileUrl": "https://medium.com/@Paw101",
+      "name": "Paw101"
+    },
+    {
+      "profileUrl": "https://medium.com/@TobievanZyl",
+      "name": "Tobie van Zyl"
+    },
+    {
+      "profileUrl": "https://medium.com/@NikosAnevlavis",
+      "name": "Nikos Anevlavis",
+      "description": "💻 GrowthHacker 🖱 fullstack webdeveloper ⚽ football lover 🏖 living somewhere in Greece"
+    },
+    {
+      "profileUrl": "https://medium.com/@pgyurian_SAP",
+      "name": "Paulina Gyurian",
+      "description": "PSA@SAP. Always willing to help and assist SAP PE partners in developing their business. All views are my own. When tired, I switch to photography & gaming. 😉"
+    },
+    {
+      "profileUrl": "https://medium.com/@aurepavi",
+      "name": "Aurelija Baltrone",
+      "description": "Product Manager at @Shopify building @OberloApp. Behind every fear, there is often some good things that we throw away."
+    },
+    {
+      "profileUrl": "https://medium.com/@iam.andres.diaz",
+      "name": "Andrés Díaz",
+      "description": "22 y.o. Multimedia Engineer & M.S in Multimedia Creation. I love playing daily to take my life into the next level."
+    },
+    {
+      "profileUrl": "https://medium.com/@EmiIio_Rios",
+      "name": "Emilio",
+      "description": "Software developer. Javascripter. Herpetologist and botanist in my spare time. My super power is to forget the name of the people."
+    },
+    {
+      "profileUrl": "https://medium.com/@Anastasia_Gladkova",
+      "name": "Anastasia Gladkova",
+      "description": "Marketing Manager at Mobio"
+    },
+    {
+      "profileUrl": "https://medium.com/@eddiejoel19",
+      "name": "Eddie Mejia"
+    },
+    {
+      "profileUrl": "https://medium.com/@fanegen",
+      "name": "Falco Negenman",
+      "description": "Amsterdam based designer - self-confessedly addicted to internet browsing and strolling around with my camera. - www.falconegenman.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@pharouk90_81100",
+      "name": "Umar Pharouk",
+      "description": "Co-founder/CEO Usend Technologies Ltd."
+    },
+    {
+      "profileUrl": "https://medium.com/@hellojude1",
+      "name": "k"
+    },
+    {
+      "profileUrl": "https://medium.com/@SarahKhan",
+      "name": "Sarah Khan Azamy",
+      "description": "Designer"
+    },
+    {
+      "profileUrl": "https://medium.com/@ZG_Zhivolupov",
+      "name": "Gennadiy Zhivolupov",
+      "description": "UX designer"
+    },
+    {
+      "profileUrl": "https://medium.com/@jesusemelendezm",
+      "name": "Jesús Melendez Manzano",
+      "description": "A programmer who also likes words, pictures, and music, not just algorithms"
+    },
+    {
+      "profileUrl": "https://medium.com/@miftahmizwar",
+      "name": "Miftah Mizwar"
+    },
+    {
+      "profileUrl": "https://medium.com/@nugrahafikri",
+      "name": "Nugraha Fikri",
+      "description": "i'm a creep i'm a weirdos"
+    },
+    {
+      "profileUrl": "https://medium.com/@mayulu",
+      "name": "mayulu"
+    },
+    {
+      "profileUrl": "https://medium.com/@yasinsinankayacan",
+      "name": "Yasin Sinan Kayacan"
+    },
+    {
+      "profileUrl": "https://medium.com/@SIDDHANTTIWARI",
+      "name": "Siddhant Tiwari",
+      "description": "Engineer | Marketer | Hobbyist¯\\_(ツ)_/¯"
+    },
+    {
+      "profileUrl": "https://medium.com/@shaunblack",
+      "name": "Shaun Black",
+      "description": "Entrepreneur. Restaurateur. Philanthropist. www.mrshaunblack.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@aaronmathew_5882",
+      "name": "Aaron Mathew"
+    },
+    {
+      "profileUrl": "https://medium.com/@Alex.Herrera",
+      "name": "Alejandro Herrera",
+      "description": "Digital Creative Director & Innovation Product Design."
+    },
+    {
+      "profileUrl": "https://medium.com/@rafaellaott",
+      "name": "Rafaella Ott"
+    },
+    {
+      "profileUrl": "https://medium.com/@vinaykumar2491",
+      "name": "Vinay Kumar",
+      "description": "https://www.linkedin.com/in/vinaykumar2491/"
+    },
+    {
+      "profileUrl": "https://medium.com/@elwk07",
+      "name": "Eric Liong"
+    },
+    {
+      "profileUrl": "https://medium.com/@kevntz",
+      "name": "Kevin Natanzon",
+      "description": "Founder of @BetaLabs, a company building apps used by millions. I write stories on the intersection between Technology, Marketing and Design 👉 beta.uy"
+    },
+    {
+      "profileUrl": "https://medium.com/@msawmiller",
+      "name": "Matt Sawmiller",
+      "description": "Product Designer for @YouVersion. Freelancer, guitarist. Faith, family, relationships."
+    },
+    {
+      "profileUrl": "https://medium.com/@kimcy929",
+      "name": "Kimcy929"
+    },
+    {
+      "profileUrl": "https://medium.com/@NR_Rulo",
+      "name": "Nahuel Roldán",
+      "description": "iOS developer and Heavy Metal fan"
+    },
+    {
+      "profileUrl": "https://medium.com/@randieri",
+      "name": "Cristian Randieri, Phd",
+      "description": "Founder, President & CEO of www.intellisystem.it & www.randieri.com - Scientist & Writer - social@randieri.com twitter @C_Randieri"
+    },
+    {
+      "profileUrl": "https://medium.com/@d3lm",
+      "name": "Dominic E.",
+      "description": "Passionate Web Developer, sportsman and also into Design"
+    },
+    {
+      "profileUrl": "https://medium.com/@lipmanb",
+      "name": "Brandon Lipman",
+      "description": "Growth Marketing Consultant For Venture-Backed Companies @Redwhale. Follow me @lipmanb"
+    },
+    {
+      "profileUrl": "https://medium.com/@aftercrossapp",
+      "name": "AfterCrossApp",
+      "description": "Digital Business Cards. Create and exchange your digital card anytime, anywhere and across any device. Advertise your work. Don’t leave meeting people to luck!"
+    },
+    {
+      "profileUrl": "https://medium.com/@andoniarzate",
+      "name": "Andoni Arzate",
+      "description": "Student Athlete Traveler"
+    },
+    {
+      "profileUrl": "https://medium.com/@ikefazzio",
+      "name": "Ike Fazzio"
+    },
+    {
+      "profileUrl": "https://medium.com/@sbepstein",
+      "name": "Steve Epstein",
+      "description": "Creating mobile cloud apps and mHealth games prescribed by MD's in 15 languages. I build s/w teams that don’t suck."
+    },
+    {
+      "profileUrl": "https://medium.com/@mecitsem",
+      "name": "Mecit Semerci",
+      "description": "Application Software Developer, Amatour Photographer, Entrepreneur and Sports and Nature lover. www.mecitsemerci.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@georgecohta",
+      "name": "George Cohta",
+      "description": "iglobe Inc. President and CEO／デジタル・キュレーター、ソーシャルメディア・コンシェルジュ、コミュニケーション・デザイナー、ゲーミフィケーション・エヴンジェリスト／Digital Curator, Social media Concierge, Gamification Evangelist"
+    },
+    {
+      "profileUrl": "https://medium.com/@PinkSlime",
+      "name": "Dan Treichel"
+    },
+    {
+      "profileUrl": "https://medium.com/@smanirebel7",
+      "name": "Manikandan Shenbagaraj",
+      "description": "Full Stack Developer"
+    },
+    {
+      "profileUrl": "https://medium.com/@junichi.kuroda",
+      "name": "Junichi Kuroda"
+    },
+    {
+      "profileUrl": "https://medium.com/@Marie.Rose",
+      "name": "Marie-Rose Tripault"
+    },
+    {
+      "profileUrl": "https://medium.com/@amatanat_",
+      "name": "Matanat Ahmadova",
+      "description": "Android Developer, MSc. in Computer Science"
+    },
+    {
+      "profileUrl": "https://medium.com/@nurycaroline",
+      "name": "Nurielly Caroline"
+    },
+    {
+      "profileUrl": "https://medium.com/@mflood7356",
+      "name": "Matt Flood",
+      "description": "PO at TCGplayer.com 💻 iOS Developer 📱 Find my personal site at www.mattdflood.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@airaptor1",
+      "name": "Thales Ferreira"
+    },
+    {
+      "profileUrl": "https://medium.com/@murindwaz",
+      "name": "Pascal Maniraho",
+      "description": "Web lover, code crafter, beer drinker, created http://hoo.gy, Montrealer, and training to run a half-marathon :-)"
+    },
+    {
+      "profileUrl": "https://medium.com/@johnnyblu6",
+      "name": "Johnny Sanchez",
+      "description": "Head of Talent at Hot Topic & BoxLunch | Talent and Employee Experience | Family, music, coffee, BigSur | Amateur photog | Hiking | Living life"
+    },
+    {
+      "profileUrl": "https://medium.com/@hellboy8x",
+      "name": "Ha Trung Kien"
+    },
+    {
+      "profileUrl": "https://medium.com/@paulamotamachado",
+      "name": "Paula Machado",
+      "description": "A Customer Experience Manager in Bangkok!"
+    },
+    {
+      "profileUrl": "https://medium.com/@silvanostoicescu",
+      "name": "Silvano Stoicescu",
+      "description": "Digital Entrepreneur. Founder at Versum Media Group Int. Infinite Learner. I write about AI, VR, UBI, Longevity, Media. Interested in: know you better, pizza."
+    },
+    {
+      "profileUrl": "https://medium.com/@TaraK",
+      "name": "Tara Kelly",
+      "description": "Journalist and copywriter. Cork, Ireland. TaraKellyMedia.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@joeblair_29117",
+      "name": "Joe Blair",
+      "description": "Health Data Scientist, Sport, Travel and Tech Enthusiast"
+    },
+    {
+      "profileUrl": "https://medium.com/@kismetk",
+      "name": "kismet"
+    },
+    {
+      "profileUrl": "https://medium.com/@ToscaKilloran",
+      "name": "Tosca Killoran",
+      "description": "#EdTech Coach, #PYP Teacher, Publisher, #TEDx Organizer, Author, Artist, Traveler, Edupreneur & #Vegetarian"
+    },
+    {
+      "profileUrl": "https://medium.com/@byrem",
+      "name": "Ramaza Hocaoğlu",
+      "description": "Software Developer"
+    },
+    {
+      "profileUrl": "https://medium.com/@kpavlovsky",
+      "name": "Konstantin Pavlovsky",
+      "description": "Maker, CTO, Angular on frontend, Python/Django on backend 12y+ exp."
+    },
+    {
+      "profileUrl": "https://medium.com/@Prototypr",
+      "name": "prototypr.io",
+      "description": "http://prototypr.io"
+    },
+    {
+      "profileUrl": "https://medium.com/@thamood",
+      "name": "Thamood Binmahfooz",
+      "description": "Writer and podcaster. I focus on tech, gaming and society."
+    },
+    {
+      "profileUrl": "https://medium.com/@HannaAbiAkl",
+      "name": "Hanna Abi Akl",
+      "description": "Data Integration Engineer and Author of A Road Away From Home."
+    },
+    {
+      "profileUrl": "https://medium.com/@imantumorang",
+      "name": "Iman Tumorang",
+      "description": "Passionate and Curious Learner in Software Engineering. - Read more about me: https://bxcodec.io/post/about"
+    },
+    {
+      "profileUrl": "https://medium.com/@khushithakkar",
+      "name": "Khushi Thakkar"
+    },
+    {
+      "profileUrl": "https://medium.com/@alhrbimajed",
+      "name": "Majed Alharbi",
+      "description": "مهندس مهتم بالتقنية والمشاريع التقنية"
+    },
+    {
+      "profileUrl": "https://medium.com/@DionBoles",
+      "name": "Dion Boles"
+    },
+    {
+      "profileUrl": "https://medium.com/@aytekintank",
+      "name": "Aytekin Tank",
+      "description": "Founder at www.JotForm.com"
+    },
+    {
+      "profileUrl": "https://medium.com/@thestartup_",
+      "name": "The Startup",
+      "description": "The official account of @TheStartup_ https://medium.com/swlh."
+    }
+  ]
+}
