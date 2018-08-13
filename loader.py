@@ -41,19 +41,26 @@ def extract_urls(raw_urls):
 def sanitize_url(url):
     return '/'.join(url.split('/')[:4])+'/'
 if __name__ == "__main__":
-    with open('FB_URLs.json', 'r') as links:
-        with open('data.json', 'r') as persons:
-            persons = json.load(persons)
-            raw_urls = json.load(links)
-            for link in raw_urls:
-                identifier = hashlib.sha224(link.get('query').encode('utf-8')).hexdigest()
-                person = persons.get(identifier)
-                person['facebookurl'] = sanitize_url(link.get('facebookUrl'))
-                persons[identifier] = person
-            with open('data_with_url.json', 'w') as output:
-                json.dump(persons, output, indent=2)
-            with open('just_urls.json', 'w') as nextstep:
-                json.dump([url['facebookUrl'] for url in raw_urls], nextstep, indent=2)
-            with open('utility_mapping.json', 'w') as util:
-                utility = {hashlib.sha224(v.get('facebookurl').encode('utf-8')).hexdigest(): hashlib.sha224(v.get('name').encode('utf-8')).hexdigest() for v in persons.values()}
-                json.dump(utility, util, indent=2)
+    with open('data_with_url.json') as fd1:
+        data = json.load(fd1)
+        with open('utility_mapping.json') as fd2:
+            mapping = json.load(fd2)
+            with open('FB_IDs') as fd3:
+                ids = json.load(fd3)
+                for some_id in ids:
+                    url = some_id.get('originalUrl')
+                    print(url)
+                    if not url.endswith('/'):
+                        url = url + '/'
+                    url_id = hashlib.sha224(url.encode('utf-8')).hexdigest()
+                    id_to_append = some_id.get('id')
+                    try:
+                        person_id = mapping[url_id]
+                    except KeyError:
+                        splitted = url.split('/')
+                        person_id = mapping[hashlib.sha224(('/'.join(splitted[:4])+'/').encode('utf-8')).hexdigest()]
+                    person_data = data[person_id]
+                    person_data['id'] = id_to_append if id_to_append else 'Private or non existing FB'
+                    data[person_id] = person_data
+                with open('data_full.json', 'w') as fd4:
+                    json.dump(data, fd4, indent=2)
