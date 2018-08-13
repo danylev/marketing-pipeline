@@ -2,11 +2,6 @@ import json
 import os
 import hashlib
 
-from dotenv import load_dotenv
-
-from models import Articles, Clappers
-load_dotenv()
-
 CLAPPERS = [data for data in os.listdir() if 'CLAPPERS' in data]
 
 def load_articles(path='./'):
@@ -38,6 +33,27 @@ def dump_names(names):
     with open('data.json', 'w') as output:
         json.dump(names, output, indent=2)
 
+def extract_urls(raw_urls):
+    just_urls = [value.get('facebookUrl') for value in raw_urls]
+    with open('face_urls.json', 'w') as output:
+        json.dump(just_urls, output, indent=2)
+
+def sanitize_url(url):
+    return '/'.join(url.split('/')[:4])+'/'
 if __name__ == "__main__":
-    names = load_articles(path='./')
-   
+    with open('FB_URLs.json', 'r') as links:
+        with open('data.json', 'r') as persons:
+            persons = json.load(persons)
+            raw_urls = json.load(links)
+            for link in raw_urls:
+                identifier = hashlib.sha224(link.get('query').encode('utf-8')).hexdigest()
+                person = persons.get(identifier)
+                person['facebookurl'] = sanitize_url(link.get('facebookUrl'))
+                persons[identifier] = person
+            with open('data_with_url.json', 'w') as output:
+                json.dump(persons, output, indent=2)
+            with open('just_urls.json', 'w') as nextstep:
+                json.dump([url['facebookUrl'] for url in raw_urls], nextstep, indent=2)
+            with open('utility_mapping.json', 'w') as util:
+                utility = {hashlib.sha224(v.get('facebookurl').encode('utf-8')).hexdigest(): hashlib.sha224(v.get('name').encode('utf-8')).hexdigest() for v in persons.values()}
+                json.dump(utility, util, indent=2)
