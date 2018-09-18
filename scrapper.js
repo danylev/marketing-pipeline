@@ -224,9 +224,12 @@ const gatherFacebookIDs = async (urls, tab) => {
 //
 ;(async() => {
     const tab = await nick.newTab()
-    names = require('./names.json')
-    facebookUrls = await gatherFacebookUrls(names, tab)
-    console.log(names)
+    // names = require('./names.json')
+    // facebookUrls = await gatherFacebookUrls(names, tab)
+    // console.log(names)
+    urls = require('./face_urls.json')
+    ids = await gatherFacebookIDs(urls, tab)
+
     // urls = await gatherFacebookUrls(names, article, tab)
     // ids = await gatherFacebookIDs(urls, article, tab)
     nick.exit()
