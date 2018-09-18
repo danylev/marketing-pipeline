@@ -1,0 +1,21 @@
+version: '3'
+services:
+  database:
+    image: mongo:3.6
+    environment:
+      - MONGO_INITDB_DATABASE=pm_development
+      - MONGO_INITDB_ROOT_USERNAME=mongoadmin
+      - MONGO_INITDB_ROOT_PASSWORD=mongosecret
+    volumes:
+      - mp_mongo_data:/data/db
+    ports:
+      - "27017:27017"
+  rabbitmq:
+    image: rabbitmq:3.6-alpine
+    volumes:
+      - mp_rabbitmq_data:/var/lib/rabbitmq
+    ports:
+      - "5672:5672"
+volumes:
+  mp_mongo_data:
+  mp_rabbitmq_data:
