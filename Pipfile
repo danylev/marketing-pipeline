@@ -9,9 +9,12 @@ celery = "*"
 mongoengine = "*"
 python-dotenv = "*"
 gunicorn = "*"
+Scrapy = "*"
+splinter = "*"
 
 [dev-packages]
 ipython = "*"
+ipdb = "*"
 
 [requires]
 python_version = "3.6"
